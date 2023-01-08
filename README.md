@@ -1,2 +1,2 @@
-# LinnLinn4.github.io
+# KhineZinZinLinn.github.io
  Portfolio Website
